@@ -1,0 +1,662 @@
+[
+    {
+        "market_id": null,
+        "condition_id": "",
+        "question": "archWill Kamala Harris win the 2024 US Presidential Election?",
+        "end_date": "2024-11-05T00:00:00+00:00",
+        "active": false,
+        "closed": false,
+        "tokens": [
+            {
+                "token_id": "",
+                "outcome": "",
+                "price": 0
+            },
+            {
+                "token_id": "",
+                "outcome": "",
+                "price": 0
+            }
+        ]
+    },
+    {
+        "market_id": null,
+        "condition_id": "",
+        "question": "Will Google publicly launch a ChatGPT competitor by March 31?",
+        "end_date": null,
+        "active": false,
+        "closed": false,
+        "tokens": [
+            {
+                "token_id": "",
+                "outcome": "",
+                "price": 0
+            },
+            {
+                "token_id": "",
+                "outcome": "",
+                "price": 0
+            }
+        ]
+    },
+    {
+        "market_id": null,
+        "condition_id": "0x1409177eae7f1b0406bc0eea9d2715c9f76d88ec7765aed03cf39d59f36008f7",
+        "question": "Will a House Speaker be elected by end of Thursday?",
+        "end_date": "2023-01-06T00:00:00+00:00",
+        "active": false,
+        "closed": true,
+        "tokens": [
+            {
+                "token_id": "93161692958130071140707303038219679429250610405728840035276830076675494144291",
+                "outcome": "Yes",
+                "price": 0
+            },
+            {
+                "token_id": "56419231299380534710656783098291368308638365867243518354348835265264811381897",
+                "outcome": "No",
+                "price": 1
+            }
+        ]
+    },
+    {
+        "market_id": null,
+        "condition_id": "0x7b76dda87a490fe7fb793ba900c02685aaa193c75277c39f396121f902f9786c",
+        "question": "archWill Gavin Newsom win the 2024 US Presidential Election?",
+        "end_date": "2024-11-05T00:00:00+00:00",
+        "active": false,
+        "closed": false,
+        "tokens": [
+            {
+                "token_id": "36430544462570115479940657234002209450370604907241767679295768862183843744752",
+                "outcome": "Yes",
+                "price": 0.5
+            },
+            {
+                "token_id": "56357009725687097216720222009731054615934909862114516653388699536347194425830",
+                "outcome": "No",
+                "price": 0.5
+            }
+        ]
+    },
+    {
+        "market_id": null,
+        "condition_id": "",
+        "question": "Which party will control the U.S. Senate after the 2024 election?",
+        "end_date": "2024-11-05T00:00:00+00:00",
+        "active": false,
+        "closed": false,
+        "tokens": [
+            {
+                "token_id": "",
+                "outcome": "",
+                "price": 0
+            },
+            {
+                "token_id": "",
+                "outcome": "",
+                "price": 0
+            }
+        ]
+    },
+    {
+        "market_id": null,
+        "condition_id": "",
+        "question": "Will Newcastle win the 2023 Premier League championship?",
+        "end_date": "2023-05-29T00:00:00+00:00",
+        "active": false,
+        "closed": false,
+        "tokens": [
+            {
+                "token_id": "",
+                "outcome": "",
+                "price": 0
+            },
+            {
+                "token_id": "",
+                "outcome": "",
+                "price": 0
+            }
+        ]
+    },
+    {
+        "market_id": null,
+        "condition_id": "",
+        "question": "archNBA: Heat vs. Knicks (02/02/2023)",
+        "end_date": "2023-02-02T00:00:00+00:00",
+        "active": false,
+        "closed": false,
+        "tokens": [
+            {
+                "token_id": "",
+                "outcome": "",
+                "price": 0
+            },
+            {
+                "token_id": "",
+                "outcome": "",
+                "price": 0
+            }
+        ]
+    },
+    {
+        "market_id": null,
+        "condition_id": "",
+        "question": "Will \"Flowers\" be #1 globally on Spotify for January 28?",
+        "end_date": "2023-01-30T00:00:00+00:00",
+        "active": false,
+        "closed": false,
+        "tokens": [
+            {
+                "token_id": "",
+                "outcome": "",
+                "price": 0
+            },
+            {
+                "token_id": "",
+                "outcome": "",
+                "price": 0
+            }
+        ]
+    },
+    {
+        "market_id": null,
+        "condition_id": "",
+        "question": "archWill US inflation be greater than 0.3% from January to February 2023?",
+        "end_date": "2023-03-14T00:00:00+00:00",
+        "active": false,
+        "closed": false,
+        "tokens": [
+            {
+                "token_id": "",
+                "outcome": "",
+                "price": 0
+            },
+            {
+                "token_id": "",
+                "outcome": "",
+                "price": 0
+            }
+        ]
+    },
+    {
+        "market_id": null,
+        "condition_id": "",
+        "question": "archWill Trump win the 2024 US Presidential Election?",
+        "end_date": "2024-11-05T00:00:00+00:00",
+        "active": false,
+        "closed": false,
+        "tokens": [
+            {
+                "token_id": "",
+                "outcome": "",
+                "price": 0
+            },
+            {
+                "token_id": "",
+                "outcome": "",
+                "price": 0
+            }
+        ]
+    },
+    {
+        "market_id": null,
+        "condition_id": "",
+        "question": "archWill Nikki Haley win the 2024 US Presidential Election?",
+        "end_date": "2024-11-05T00:00:00+00:00",
+        "active": false,
+        "closed": false,
+        "tokens": [
+            {
+                "token_id": "",
+                "outcome": "",
+                "price": 0
+            },
+            {
+                "token_id": "",
+                "outcome": "",
+                "price": 0
+            }
+        ]
+    },
+    {
+        "market_id": null,
+        "condition_id": "",
+        "question": "archWill Kamala Harris win the 2024 US Presidential Election?",
+        "end_date": "2024-11-05T00:00:00+00:00",
+        "active": false,
+        "closed": false,
+        "tokens": [
+            {
+                "token_id": "",
+                "outcome": "",
+                "price": 0
+            },
+            {
+                "token_id": "",
+                "outcome": "",
+                "price": 0
+            }
+        ]
+    },
+    {
+        "market_id": null,
+        "condition_id": "0x5374183ab5a2925fda4e7ac2db4848499458224ce2d73c16d3f248951c80746e",
+        "question": "Will the clob strapi integration work?",
+        "end_date": "2022-02-19T00:00:00+00:00",
+        "active": false,
+        "closed": false,
+        "tokens": [
+            {
+                "token_id": "",
+                "outcome": "",
+                "price": 0
+            },
+            {
+                "token_id": "",
+                "outcome": "",
+                "price": 0
+            }
+        ]
+    },
+    {
+        "market_id": null,
+        "condition_id": "",
+        "question": "Will any field goal be scored from 55 yards or greater?",
+        "end_date": "2023-02-12T00:00:00+00:00",
+        "active": false,
+        "closed": false,
+        "tokens": [
+            {
+                "token_id": "",
+                "outcome": "",
+                "price": 0
+            },
+            {
+                "token_id": "",
+                "outcome": "",
+                "price": 0
+            }
+        ]
+    },
+    {
+        "market_id": null,
+        "condition_id": "0xfc55d0b27397a87efb800bb02f5bae53374b27c981801bde5ee136dcfb434ccf",
+        "question": "archWill Donald Trump win the 2024 US Presidential Election?",
+        "end_date": "2024-11-05T00:00:00+00:00",
+        "active": false,
+        "closed": false,
+        "tokens": [
+            {
+                "token_id": "105070546664320805300586278774686962463580178059055738967096564526466495062318",
+                "outcome": "Yes",
+                "price": 0.5
+            },
+            {
+                "token_id": "3510646112209903600527101523429253111882751660194328532936560805156491546539",
+                "outcome": "No",
+                "price": 0.5
+            }
+        ]
+    },
+    {
+        "market_id": null,
+        "condition_id": "",
+        "question": "Will Super Bowl LVII be won on a field goal?",
+        "end_date": "2023-02-12T00:00:00+00:00",
+        "active": false,
+        "closed": false,
+        "tokens": [
+            {
+                "token_id": "",
+                "outcome": "",
+                "price": 0
+            },
+            {
+                "token_id": "",
+                "outcome": "",
+                "price": 0
+            }
+        ]
+    },
+    {
+        "market_id": null,
+        "condition_id": "0x055176c9ebd8775c281ad540d5c16b3323e316507aef2d45c84f061cbc6bbcdc",
+        "question": "MLB: Who will win Boston Red Sox v. Baltimore Orioles, scheduled for August 21, 7:10 PM ET?",
+        "end_date": "2022-08-21T00:00:00+00:00",
+        "active": false,
+        "closed": true,
+        "tokens": [
+            {
+                "token_id": "96608690015534549481981139148848533486469138671280945937552552577172448128011",
+                "outcome": "Red Sox",
+                "price": 0
+            },
+            {
+                "token_id": "9612890763764062692282935414227141810568206972440321500296202304471805951204",
+                "outcome": "Orioles",
+                "price": 1
+            }
+        ]
+    },
+    {
+        "market_id": null,
+        "condition_id": "",
+        "question": "Will Trump drop out before the 2024 Iowa Caucus?",
+        "end_date": null,
+        "active": false,
+        "closed": false,
+        "tokens": [
+            {
+                "token_id": "",
+                "outcome": "",
+                "price": 0
+            },
+            {
+                "token_id": "",
+                "outcome": "",
+                "price": 0
+            }
+        ]
+    },
+    {
+        "market_id": null,
+        "condition_id": "0xf6c10171a01fc72f50555ebd21a56434be30dd4b7d05f35ea2a0b44930f2102f",
+        "question": "archWill Ron DeSantis win the 2024 US Presidential Election?",
+        "end_date": "2024-11-05T00:00:00+00:00",
+        "active": false,
+        "closed": true,
+        "tokens": [
+            {
+                "token_id": "24206571990462372210107193469674000179074033584241821402376409731444073925638",
+                "outcome": "Yes",
+                "price": 0
+            },
+            {
+                "token_id": "65110203479867631070361810509771597044665938443282920755659199241616768884547",
+                "outcome": "No",
+                "price": 1
+            }
+        ]
+    },
+    {
+        "market_id": null,
+        "condition_id": "0x58075227a3ccf41a1cd390f6bc4895c80101a1172e0836e61776c7e97ce847d8",
+        "question": "archWill Joe Biden win the 2024 US Presidential Election?",
+        "end_date": "2024-11-05T00:00:00+00:00",
+        "active": false,
+        "closed": false,
+        "tokens": [
+            {
+                "token_id": "28851616888339703913579050774438045171530999645080218967291806465359923288094",
+                "outcome": "Yes",
+                "price": 0.5
+            },
+            {
+                "token_id": "8343424264197265259971360185991342372810140013425433980730483284928735646289",
+                "outcome": "No",
+                "price": 0.5
+            }
+        ]
+    },
+    {
+        "market_id": null,
+        "condition_id": "",
+        "question": "excitingTEST!!!",
+        "end_date": "2023-01-24T00:00:00+00:00",
+        "active": false,
+        "closed": false,
+        "tokens": [
+            {
+                "token_id": "",
+                "outcome": "",
+                "price": 0
+            },
+            {
+                "token_id": "",
+                "outcome": "",
+                "price": 0
+            }
+        ]
+    },
+    {
+        "market_id": null,
+        "condition_id": "",
+        "question": "Will \"PredictIt Exchange\" be live by June 1?",
+        "end_date": "2023-06-01T00:00:00+00:00",
+        "active": false,
+        "closed": false,
+        "tokens": [
+            {
+                "token_id": "",
+                "outcome": "",
+                "price": 0
+            },
+            {
+                "token_id": "",
+                "outcome": "",
+                "price": 0
+            }
+        ]
+    },
+    {
+        "market_id": null,
+        "condition_id": "",
+        "question": "Will Nikki Haley file to run for president by June 30, 2023?",
+        "end_date": "2023-07-01T00:00:00+00:00",
+        "active": false,
+        "closed": false,
+        "tokens": [
+            {
+                "token_id": "",
+                "outcome": "",
+                "price": 0
+            },
+            {
+                "token_id": "",
+                "outcome": "",
+                "price": 0
+            }
+        ]
+    },
+    {
+        "market_id": null,
+        "condition_id": "",
+        "question": "Will OpenSea launch their token by April 1?",
+        "end_date": null,
+        "active": false,
+        "closed": false,
+        "tokens": [
+            {
+                "token_id": "",
+                "outcome": "",
+                "price": 0
+            },
+            {
+                "token_id": "",
+                "outcome": "",
+                "price": 0
+            }
+        ]
+    },
+    {
+        "market_id": null,
+        "condition_id": "",
+        "question": "Who will win Super Bowl LVII? (no overtime)",
+        "end_date": "2023-02-12T00:00:00+00:00",
+        "active": false,
+        "closed": false,
+        "tokens": [
+            {
+                "token_id": "",
+                "outcome": "",
+                "price": 0
+            },
+            {
+                "token_id": "",
+                "outcome": "",
+                "price": 0
+            }
+        ]
+    },
+    {
+        "market_id": null,
+        "condition_id": "",
+        "question": "archWill Ron DeSantis win the 2024 US Presidential Election?",
+        "end_date": "2024-11-05T00:00:00+00:00",
+        "active": false,
+        "closed": false,
+        "tokens": [
+            {
+                "token_id": "",
+                "outcome": "",
+                "price": 0
+            },
+            {
+                "token_id": "",
+                "outcome": "",
+                "price": 0
+            }
+        ]
+    },
+    {
+        "market_id": null,
+        "condition_id": "",
+        "question": "Will Tesla's EPS for Q4 2022 beat estimates?",
+        "end_date": "2023-01-25T00:00:00+00:00",
+        "active": false,
+        "closed": false,
+        "tokens": [
+            {
+                "token_id": "",
+                "outcome": "",
+                "price": 0
+            },
+            {
+                "token_id": "",
+                "outcome": "",
+                "price": 0
+            }
+        ]
+    },
+    {
+        "market_id": null,
+        "condition_id": "",
+        "question": "archWill Gavin Newsom win the 2024 US Presidential Election?",
+        "end_date": "2024-11-05T00:00:00+00:00",
+        "active": false,
+        "closed": false,
+        "tokens": [
+            {
+                "token_id": "",
+                "outcome": "",
+                "price": 0
+            },
+            {
+                "token_id": "",
+                "outcome": "",
+                "price": 0
+            }
+        ]
+    },
+    {
+        "market_id": null,
+        "condition_id": "0xf6143ad3ce7b1f3044a0e20f2d992132f0c7b172c5caf3edd69d53e8b4a6e7b0",
+        "question": "Will $BTC reach $1700 by January 4?",
+        "end_date": "2023-01-04T00:00:00+00:00",
+        "active": false,
+        "closed": false,
+        "tokens": [
+            {
+                "token_id": "55059040236764057853596698997028131932925913975583655858572439429457181618224",
+                "outcome": "Yes",
+                "price": 0.5
+            },
+            {
+                "token_id": "98926605073700445184449221251394057480734999487473736461568304885330975610140",
+                "outcome": "No",
+                "price": 0.5
+            }
+        ]
+    },
+    {
+        "market_id": null,
+        "condition_id": "",
+        "question": "Will DCG announce it is filing for bankruptcy by March 1?",
+        "end_date": "2023-03-01T00:00:00+00:00",
+        "active": false,
+        "closed": false,
+        "tokens": [
+            {
+                "token_id": "",
+                "outcome": "",
+                "price": 0
+            },
+            {
+                "token_id": "",
+                "outcome": "",
+                "price": 0
+            }
+        ]
+    },
+    {
+        "market_id": null,
+        "condition_id": "",
+        "question": "archNBA: Hornets vs. Bulls (02/02/2023)",
+        "end_date": "2023-02-02T00:00:00+00:00",
+        "active": false,
+        "closed": false,
+        "tokens": [
+            {
+                "token_id": "",
+                "outcome": "",
+                "price": 0
+            },
+            {
+                "token_id": "",
+                "outcome": "",
+                "price": 0
+            }
+        ]
+    },
+    {
+        "market_id": null,
+        "condition_id": "",
+        "question": "Will Coinbase staking be available in the US through March 31?",
+        "end_date": null,
+        "active": false,
+        "closed": false,
+        "tokens": [
+            {
+                "token_id": "",
+                "outcome": "",
+                "price": 0
+            },
+            {
+                "token_id": "",
+                "outcome": "",
+                "price": 0
+            }
+        ]
+    },
+    {
+        "market_id": null,
+        "condition_id": "",
+        "question": "archWill Joe Biden win the 2024 US Presidential Election?",
+        "end_date": "2024-11-05T00:00:00+00:00",
+        "active": false,
+        "closed": false,
+        "tokens": [
+            {
+                "token_id": "",
+                "outcome": "",
+                "price": 0
+            },
+            {
+                "token_id": "",
+                "outcome": "",
+                "price": 0
+            }
+        ]
+    }
+]
