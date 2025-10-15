@@ -1,5 +1,7 @@
 from src.api_connector import PolymarketConnector
 
+
+
 class OrderManager:
     def __init__(self, connector: PolymarketConnector):
         self.connector = connector
@@ -66,4 +68,6 @@ class OrderManager:
         total_value = sum(t["price"] * t["quantity"] for t in trades)
         total_qty = sum(t["quantity"] for t in trades)
         return total_value / total_qty if total_qty > 0 else None
+    
+    
 

@@ -20,7 +20,7 @@ class PolymarketConnector:
                 host=self.host,
                 key=self.private_key,
                 chain_id=self.chain_id,
-                signature_type=0,  # default signature type
+                signature_type=2,  # default signature type
                 funder=self.funder
             )
             self.api_creds = self.client.set_api_creds(self.client.create_or_derive_api_creds())
@@ -29,13 +29,7 @@ class PolymarketConnector:
             print(f"Failed to connect to Polymarket CLOB: {e}")
             raise
 
-    def fetch_markets(self):
-        
-        try:
-            return self.client.get_markets()  # adjust based on actual client method
-        except Exception as e:
-            print(f"Error fetching markets: {e}")
-            return []
+
 
     def place_order(self, market_id: str, outcome_id: int, amount: float, side: str):
         """
@@ -149,6 +143,5 @@ class PolymarketConnector:
         except Exception as e:
             print(f"Failed to fetch order book for market {market_id}: {e}")
             return None
-
-    
+ 
     
