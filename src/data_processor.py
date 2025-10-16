@@ -51,11 +51,27 @@ class DataProcessor:
             market['description']  # Added for market identification
         ))
         self.db_conn.commit()
-
+    
     
     def fetch_market(self, market_id):
         cursor = self.db_conn.cursor()
         cursor.execute('SELECT * FROM markets WHERE market_id = ?', (market_id,))
         return cursor.fetchone()
+    
+    def get_historical_data(self, market_id, limit=100):
+        cursor = self.db_conn.cursor()
+        cursor.execute('SELECT * FROM markets WHERE market_id = ? ORDER BY endDate DESC LIMIT ?', (market_id, limit))
+        rows = cursor.fetchall()
+        data = []
+        for row in rows:
+            data.append({
+                'market_id': row[0],
+                'title': row[1],
+                'endDate': row[2],
+                'active': bool(row[3]),
+                'closed': bool(row[4]),
+                'description': row[5]
+            })
+        return data
         
 

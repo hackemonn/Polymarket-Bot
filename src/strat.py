@@ -1,7 +1,6 @@
 import numpy as np
 from datetime import datetime
 import sqlite3
-import asyncio
 from src.api_connector import PolymarketConnector
 from src.order_manager import OrderManager
 from src.data_processor import DataProcessor

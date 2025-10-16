@@ -17,8 +17,12 @@ def main():
             #demo key, do not use in production
     )
     processor = DataProcessor(connector)
+    order_manager = OrderManager(connector)
+    
+    print("Initialization complete.")
+    
     while(status):
-        print("Select the option you want to perform:\n1. Fetch market data\n2. Exit")
+        print("Select the option you want to perform:\n1. save market data\n2. fetch market data\n3. strategy mode\n4. exit")
 
         option = int(input())
         
@@ -42,6 +46,7 @@ def main():
             except Exception as e:
                 print(f"Error fetching market data: {e}")
                 return
+            
 
 
             #Now we are going to process the data and store it in the database

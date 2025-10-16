@@ -7,10 +7,13 @@ class OrderManager:
         self.connector = connector
 
     def place_market_order(self, market_id, token_id, side, quantity):
+
         """
         Place a market order (buy/sell at current market price)
         side: 'buy' or 'sell'
         """
+        
+
         return self.connector.place_order(
             market_id=market_id,
             token_id=token_id,
